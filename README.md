@@ -7,9 +7,8 @@ Utilizando https://www.saucedemo.com/ para fazer testes automatizados
 </h4>
 
 <h5>Para realizar o teste utilize os seguintes comandos para instalar as bibliotecas:</h5>
-<p>- pip install selenium
-<p>- pip install webdriver_manager
-
+<h5>- pip install selenium
+<h5>- pip install webdriver_manager
 
 ### Features
 
