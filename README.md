@@ -4,9 +4,10 @@ Utilizando https://www.saucedemo.com/ para fazer testes automatizados
 
 <h4 align="center"> 
 	🏁  Testes de Sistema 🚀 Finalizado...  🏁
-    Para realizar o teste utilize os seguintes comandos para instalar as bibliotecas:
+    <p>Para realizar o teste utilize os seguintes comandos para instalar as bibliotecas:
     - pip install selenium
     - pip install webdriver_manager
+    </p>
 </h4>
 
 ### Features
